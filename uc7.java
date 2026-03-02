@@ -1,4 +1,4 @@
-```class CharacterPattern {
+class CharacterPattern {
 
     private char character;
     private String[] pattern;
@@ -63,4 +63,4 @@ public class uc7 {
             System.out.println(line);
         }
     }
-}```
+}
