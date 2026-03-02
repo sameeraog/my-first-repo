@@ -1,5 +1,4 @@
-public class oopsbanner{
-public static void main(String args[]){
-System.out.printlm("OOPS");
-  }
+class abc{
+public static void main(String ardd[]){
+system.out.printlm("oops");
 }
