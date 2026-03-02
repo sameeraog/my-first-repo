@@ -1,11 +1,4 @@
-class demo2 {
-    public static void main(String args[]){
-        System.out.println("****	****	****	****");
-		System.out.println("*  *	*  *	*  *	*");
-		System.out.println("*  *	*  *	*  *	*");
-		System.out.println("*  *	*  *	****	****");
-		System.out.println("*  *	*  *	*			*");
-		System.out.println("*  *	*  *	*			*");
-		System.out.println("****	****	*		*****");
-    }
+class A
+public static void main(string ardd[])
+system.out.printlm("OOPS");
 }
