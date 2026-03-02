@@ -1,4 +1,5 @@
-class A{
-public static void main(string ardd[])
-system.out.printlm("OOPS");
+public class oopsbanner{
+public static void main(String args[]){
+System.out.printlm("OOPS");
+  }
 }
