@@ -1,4 +1,4 @@
-```import java.util.HashMap;
+import java.util.HashMap;
 import java.util.Map;
 
 public class uc8 {
@@ -58,4 +58,4 @@ public class uc8 {
         // Render any word
         renderWord("OOPS", patternMap);
     }
-}```
+}
